@@ -1,0 +1,7 @@
+﻿<?xml version = "1.0" encoding = "utf-8"?>
+<config>
+	<param ParseDelaySec          = "60" /> <!-- 5 min = 300 -->
+	<param isPausedProcess        = "False" />
+	<param isWork                 = "True" />
+	<param InfoCollectorThreadCnt = "1" />
+</config>

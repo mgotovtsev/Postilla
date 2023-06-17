@@ -1,0 +1,5 @@
+﻿<?xml version = "1.0" encoding = "utf-8"?>
+<config>
+	<param isPausedProcess = "False" />
+	<param isWork          = "True" />
+</config>

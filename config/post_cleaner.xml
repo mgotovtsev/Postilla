@@ -1,0 +1,13 @@
+﻿<?xml version = "1.0" encoding = "utf-8"?>
+<config>
+	<param ParseDelaySec           = "1200" />  <!-- 10 min = 600 -->
+	<param isPausedProcess         = "False" />
+	<param isWork                  = "True" />
+	<param LowerBorderRatingPost   = "50" />    <!-- Less then LowerBorderRatingPost posts will be removed from DB-->
+	<param LowerBrdrUpdateCntPost  = "10" />   
+	<param BackupBorderRatingPost  = "4000" /> <!-- More BackupBorderRatingPost will be archived -->
+	<param BackupDayPost           = "1" />    <!-- Older BackupDayPost will be archived -->
+	<param MaxPostsCntBeforeShrink = "500" />
+	<param ShrinkFactor            = "0.75" />
+	<param ShrinkRatingDivisor     = "100" />
+</config>

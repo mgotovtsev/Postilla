@@ -1,0 +1,6 @@
+﻿<?xml version = "1.0" encoding = "utf-8"?>
+<config>
+	<param ParseDelaySec   = "120" />
+	<param isPausedProcess = "False" />
+	<param isWork          = "True" />
+</config>
